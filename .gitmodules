@@ -1,0 +1,3 @@
+[submodule "AethusMinimal/MinHook"]
+	path = AethusMinimal/MinHook
+	url = https://github.com/TsudaKageyu/minhook.git

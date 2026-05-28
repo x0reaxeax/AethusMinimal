@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AethusMinimal/AethusMinimal.vcxproj" Id="9f4c1be3-d863-4e2d-96af-ae7766052c34" />
+  <Project Path="Injector/Injector.vcxproj" Id="5b66f6bb-8be6-4f7f-a12a-5b12f6a73ac3" />
+</Solution>
